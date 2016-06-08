@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:13.734318
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:07
 #+TITLE: 聖者文殊師利發菩提心願文
 #+PROPERTY: CBETA_ID T20n1198
 #+PROPERTY: ID KR6j0424
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1198
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0424_T_001-0940a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1198¶
-
- 聖者文殊師利發菩提心願文¶
+No. 1198¶
+聖者文殊利發菩提心願文¶
 ¶
 巴看落目瓦傳¶
 元甘泉馬蹄山中川守分真師¶
@@ -43,8 +42,8 @@ No.1198¶
 　自己身語之惡業¶
 　於一切處恒清淨
 　意中惡業亦清淨¶
-　無邊惡業不復造
+　無邊惡業不復造」
 #+END_VERSE
-」¶
+¶
 
 　(聖者文殊師利往昔為啞馬國王時於雷音王佛處發此菩提心願文)。
